@@ -64,6 +64,14 @@ No. Issues are off and this repository is not accepting changes.
 **Why does this look unfinished?**
 Because it is. I update it when it is safe to do so.
 
+## Changelog
+
+**0.2**
+- Removed `door.txt`. A moderator flagged it as a leak and warned me that the thread was being scraped. The file was never meant to be public. I took it down in a hurry. Do not ask where it went.
+
+**0.1**
+- Initial notes.
+- 
 ## License
 
 MIT. Use the format, not the names.
